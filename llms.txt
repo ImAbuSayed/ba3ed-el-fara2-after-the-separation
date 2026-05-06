@@ -13,7 +13,7 @@
 | Lyric Writing Date | April 30, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/ba3ed-el-fara2-after-the-separation/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Get a Licensing Quote for Ba3ed El Fara2 – After the separation](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Get Permission to Use Ba3ed El Fara2 – After the separation](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
